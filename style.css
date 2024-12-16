@@ -19,9 +19,9 @@
   
   @media (max-width:768px) {
     .description { 
-      text-align: center;
+        text-align: center;
+      }
     }
-  }
   .content {
     display: block;
     width: 500px;
