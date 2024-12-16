@@ -48,6 +48,7 @@
     deleteButtonImg.src="./remove.svg"
     deleteButtonImg.className="delete-img"
     deleteButton.appendChild(deleteButtonImg);
+    deleteButton.setAttribute("alt","delete button")
   
   
     //and appending.
